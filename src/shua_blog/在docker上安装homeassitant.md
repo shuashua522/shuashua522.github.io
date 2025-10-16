@@ -5,7 +5,7 @@ date: 2025-10-08
 category:
   - agent
 tag:
-  - 智能家居
+  - docker
   - homeassitant
 ---
 
