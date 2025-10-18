@@ -30,7 +30,7 @@ Gemma 是 Google 基于 Gemini 技术构建的一家人工智能模型。Gemma 3
 
 选择gemma3:270m下载
 
-![image-20251018163001758](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20251018163001758.png)
+![image-20251018163001758](assets/image-20251018163001758.png)
 
 ## openai api调用
 
