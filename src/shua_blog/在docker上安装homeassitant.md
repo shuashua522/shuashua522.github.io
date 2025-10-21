@@ -107,7 +107,7 @@ docker run -d \
 
 ### 安装HACS
 
-直接下载 HACS 压缩包（无需 Git）：
+1. 直接下载 HACS 压缩包（无需 Git）：
 
 ```bash
 # 确保当前在 custom_components 目录
@@ -129,7 +129,7 @@ sudo chown -R 1000:1000 /opt/homeassistant/config
 docker restart homeassistant
 ```
 
+2. 去homeassitant前端【设置】里添加hacs集成
 
 
-阿里云服务器远程连接密码：@Shua123
 

@@ -1,7 +1,7 @@
 ---
 title: 本地部署gemma3
 icon: pen-to-square
-date: 2025-10-16
+date: 2025-10-18
 category:
   - agent
 tag:
