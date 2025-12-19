@@ -1,5 +1,5 @@
 ---
-title: 在docker部署kafka
+title: 在docker部署Graylog
 icon: pen-to-square
 date: 2025-10-26
 category:
