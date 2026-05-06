@@ -123,6 +123,8 @@ END [AS 别名]
 
 - DATEDIFF() ：返回 `日期1 - 日期2` 的差值，单位为「天」。
 
+- TIMESTAMPDIFF（）：MySQL 中计算时间差的首选函数，支持跨天、跨月甚至跨年的时间差计算
+
 ##### DATE_FORMAT()
 
 ```sql
@@ -238,3 +240,28 @@ DATEDIFF(日期1, 日期2)
 > [查询培训指定课程的员工信息](https://www.nowcoder.com/practice/a0ef4574056e4a219ee7d651ba82efef?tpId=375&tqId=10858427&sourceUrl=%2Fexam%2Foj)
 
 简单题
+
+#### 推荐内容准确的用户平均评分
+
+> [推荐内容准确的用户平均评分](https://www.nowcoder.com/practice/2dcac73b647247f0aef0b261ed76b47e?tpId=375&tqId=10858428&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page)
+
+难点：
+
+- 结果保留3位小数
+
+#### 每个商品的销售总额
+
+>  [每个商品的销售总额](https://www.nowcoder.com/practice/6d796e885ee44a9cb599f47b16a02ea4?tpId=375&tqId=10824294&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page)
+
+难点：
+
+- 每个商品在其所属类别内的排名
+
+#### 统计各岗位员工平均工作时长
+
+> [统计各岗位员工平均工作时长](https://www.nowcoder.com/practice/b7220791a95a4cd092801069aefa1cae?tpId=375&tqId=2452517&sourceUrl=%2Fexam%2Foj%3FquestionJobId%3D10%26subTabName%3Donline_coding_page)
+
+难点：
+
+- 两个时间戳之间的差值，以小时为单位
+- 以小时为单位输出并保留三位小数
